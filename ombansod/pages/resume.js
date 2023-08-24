@@ -9,7 +9,7 @@ import { useTheme } from "next-themes";
 import { name, showResume } from "../data/portfolio2.json";
 import { resume } from "../data/portfolio2.json";
 import data from "../data/portfolio2.json";
-import resume from '../data/portfolio2.json';
+
 
 
 const Resume = () => {
